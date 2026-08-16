@@ -1,5 +1,9 @@
 # Deep Learning Experiments: CNN, RNN, and Transformer
 
+
+https://drive.google.com/drive/folders/1mX_aMKFlJgFLaFf25atJjIK9aV4v4C5G?usp=sharing
+
+
 A collection of deep-learning notebooks covering several supervised-learning and sequence-modeling tasks. The repository includes experiments with convolutional neural networks, recurrent neural networks, bidirectional LSTMs, and a T5 Transformer model.
 
 > **Important:** This repository is a collection of independent experiments rather than one single end-to-end medical application. One notebook focuses on skin-lesion image classification, while the other notebooks explore weather time-series prediction, symptom-to-disease text classification, and news summarization.
